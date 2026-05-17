@@ -1,0 +1,1 @@
+Css linkado somente ao index.

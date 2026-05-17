@@ -1,0 +1,1 @@
+Renata, no meu index está a <ul> dentro da tag <nav> e a <ol> está na pagina "contato".
